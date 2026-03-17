@@ -1,8 +1,6 @@
 # Hi 👋, I'm Abu Sayed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amsayed3100&label=Profile views&color=0e75b6&style=flat" alt="Amsayed3100" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amsayed3100" alt="Amsayed3100" /></a> </p>
+<p align="left"> <img src="https://github.com/Amsayed3100" alt="Amsayed3100" /> </p>
 
 - 🔭 I'm currently working on **React Project
 **
