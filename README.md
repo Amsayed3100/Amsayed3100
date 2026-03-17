@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abu Sayed
 
-<p align="left"> <img src="https://github.com/Amsayed3100" alt="Amsayed3100" /> </p>
+<p align="left"> <a src="https://github.com/Amsayed3100" alt="Amsayed3100" /> </p>
 
 - 🔭 I'm currently working on **React Project
 **
