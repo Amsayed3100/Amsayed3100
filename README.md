@@ -27,8 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amsayed3100&show_icons=true&locale=en&layout=compact" alt="Amsayed3100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amsayed3100&show_icons=true&locale=en" alt="Amsayed3100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amsayed3100&" alt="Amsayed3100" /></p>
 
 
