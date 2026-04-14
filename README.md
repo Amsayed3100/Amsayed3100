@@ -2,7 +2,7 @@
 
 <p align="left"> <a src="https://github.com/Amsayed3100" alt="Amsayed3100" /> </p>
 
-- 🔭 I'm currently working on **React Project
+- 🔭 I'm currently working on **Python, Django** Project
 **
 
 - 🌱 I'm currently learning **Python, Django**
