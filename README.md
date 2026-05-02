@@ -1,31 +1,94 @@
-# Hi 👋, I'm Abu Sayed
+<h1 align="center">Hi 👋, I'm Abu Sayed</h1>
+<h3 align="center">🚀 Full Stack Developer | React • Django • Python</h3>
 
-<p align="left"> <a src="https://github.com/Amsayed3100" alt="Amsayed3100" /> </p>
-
-- 🔭 I'm currently working on **Python, Django** Project
-**
-
-- 🌱 I'm currently learning **Python, Django**
-
-- 💬 Ask me about **React, python, Django**
-
-- 📫 How to reach me **sayedmucse180@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://abu-sayed-portfoliov1.vercel.app/](https://abu-sayed-portfoliov1.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Amsayed3100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amsayed3100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Abu Sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abu Sayed" height="30" width="40" /></a>
-<a href="https://codechef.com/users/sayed_syl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="sayed_syl" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sayed_syl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayed_syl" height="30" width="40" /></a>
-<a href="https://leetcode.com/sayed_syl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayed_syl" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://abu-sayed-portfoliov1.vercel.app/">
+    🌐 Portfolio Website
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+---
 
+## 🧑‍💻 About Me
 
+- 🔭 Currently working on **Full Stack Projects (React + Django)**
+- 🌱 Learning and improving in **Backend Development & APIs**
+- 💬 Ask me about **React, Python, Django**
+- 📫 Reach me at: **sayedmucse180@gmail.com**
+- ⚡ Fun fact: I love building real-world applications
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/Amsayed3100">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://linkedin.com/in/Abu Sayed">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://codechef.com/users/sayed_syl">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/>
+</a>
+<a href="https://codeforces.com/profile/sayed_syl">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40"/>
+</a>
+<a href="https://leetcode.com/sayed_syl">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,mysql,git,figma,c,cpp" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amsayed3100&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amsayed3100&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsayed3100&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- ☕ Coffee Shop Management System (React + Django)
+- 🌐 Personal Portfolio Website
+- 📦 Full Stack CRUD Applications
+
+---
+
+## 🎯 Current Goals
+
+- ✔ Build scalable full-stack applications  
+- ✔ Master Django REST Framework  
+- ✔ Improve system design skills  
+
+---
+
+## 💡 Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
 
 
 
