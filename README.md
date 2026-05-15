@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
-<h3 align="center">💻 Full Stack Developer | React • Django • Python</h3>
+<h3 align="center">💻 Exploring AI/ML | React • Django • Python</h3>
 
 <p align="center">
   <a href="https://abu-sayed-portfoliov1.vercel.app/">
@@ -15,8 +15,8 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Full Stack (React + Django) Projects**
-- 🌱 I’m currently learning **Django REST Framework & Backend Scaling**
-- 💬 Ask me about **React, Python, Django**
+- 🌱 I’m currently learning **AI/ML**
+- 💬 Ask me about **React, Python, Django, AI/ML**
 - 📫 Reach me: **sayedmucse180@gmail.com**
 - ⚡ Passion: Building real-world production-ready apps
 
@@ -87,23 +87,19 @@
 - Personal branding website
 - Built with modern UI/UX design
 
-### 📦 CRUD Web Apps
-- REST API based full-stack apps
-- Authentication + Dashboard
-
 ---
 
 ## 🎯 Current Goals
 
 - ✔ Master Django REST Framework  
 - ✔ Build scalable backend systems  
-- ✔ Improve system design & architecture  
+- ✔ Building a scalable AI/ML projects 
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 problem solving
 
-- 💡 Active on Codeforces, CodeChef, LeetCode
+- 💡 Active on LeetCode
 - 🧩 Problem-solving mindset & algorithm skills
 
 ---
