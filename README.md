@@ -31,9 +31,13 @@
 <a href="https://linkedin.com/in/Abu Sayed">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://x.com/sayedsyl120" target="_blank">
+ <a href="https://instagram.com/Sayeed Talukder" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://x.com/sayedsyl120" target="_blank">
  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="40"/>
 </a>
+
 
 
 ---
