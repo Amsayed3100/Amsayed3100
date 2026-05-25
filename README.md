@@ -14,10 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack (React + Django) Projects**
+- 🔭 Passionate about **Full Stack (React + Django) Development**
 - 🌱 I’m currently learning **AI/ML**
 - 💬 Ask me about **React, Python, Django, AI/ML**
-- 📫 Reach me: **sayedmucse180@gmail.com**
+- 📫 Reach me: **sayedsyl120@gmail.com**
 - ⚡ Passion: Building real-world production-ready apps
 
 ---
@@ -47,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,mysql,git,figma,c,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,mysql,postgresql,git,figma,c,cpp" />
 </p>
 
 ---
@@ -55,9 +55,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amsayed3100&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amsayed3100&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amsayed3100&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsayed3100&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 
