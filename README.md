@@ -74,10 +74,7 @@
 
 
 <p align="center">
-  <img 
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amsayed3100&layout=compact&theme=radical&hide_border=true" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amsayed3100&theme=tokyonight" />
 </p>
 
 ---
