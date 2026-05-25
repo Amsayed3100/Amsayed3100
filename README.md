@@ -62,6 +62,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amsayed3100&theme=tokyonight" />
+</p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
