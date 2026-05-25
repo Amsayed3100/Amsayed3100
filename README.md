@@ -31,16 +31,9 @@
 <a href="https://linkedin.com/in/Abu Sayed">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://codechef.com/users/sayed_syl">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/>
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://codeforces.com/profile/sayed_syl">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="40"/>
-</a>
-<a href="https://leetcode.com/sayed_syl">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
-</a>
-</p>
 
 ---
 
