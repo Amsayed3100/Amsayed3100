@@ -52,13 +52,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 🤖 AI/ML Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amsayed3100&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-black?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML_Models-orange?style=for-the-badge&logo=scikitlearn" />
 </p>
-
 
 ---
 
