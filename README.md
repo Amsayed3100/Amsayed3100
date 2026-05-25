@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://x.com/sayedsyl120" target="_blank">
-  <img src="https://skillicons.dev/icons?i=X" height="40"/>
+  <img src="https://skillicons.dev/icons?i=x" height="40"/>
 </a>
 
 
