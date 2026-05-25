@@ -31,8 +31,8 @@
 <a href="https://linkedin.com/in/Abu Sayed">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/sayedsyl120" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
 </a>
 
 ---
